@@ -14,12 +14,12 @@ Below is my current understanding of the interrelationships between concepts. Pl
 
 The biggest question is where the *epistemological time period* fits in.
 
-| _                         | Standard temporal model (Snodgass and Ahn 1986) | Enhanced temporal taxonomy (Nascimento and Eich 1995) | Asserted Versioning (Johnston and Weis 2010) | Asserted Versioning (Johnston and Weis 2010) | Tritemporal theory of time (Johnston 2014) |
-| ------------------------- | ---------------------------------- | ----------------------------------------------------- | ----------------------------------- | -------------------------------------------- | ------------------------------------------ |
-| **\# of temporal dimensions** | bi-temporal                        | tri-temporal                                          | bi-temporal                         | bi-temporal                                  | tri-temporal                               |
-| **temporal axis 1**           | valid time                         | valid time                                            | effective time                      | ontological time period                      | state time                                 |
-| **temporal axis 2**           | transaction time                   | transaction time                                      |                                     | epistemological time period\*                | inscription time                           |
-| **temporal axis 3**           |                                    | decision time                                         | assertion time                      | epistemological time period\*                | speech act time                            |
+|             _            | Standard temporal model (Snodgass and Ahn 1986) | Enhanced temporal taxonomy (Nascimento and Eich 1995) | Asserted Versioning (Johnston and Weis 2010) | Asserted Versioning (Johnston and Weis 2010) | SQL:2011         | Tritemporal theory of time (Johnston 2014) |
+|:------------------------:|:-----------------------------------------------:|:-----------------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|------------------|:------------------------------------------:|
+| # of temporal dimensions | bi-temporal                                     | tri-temporal                                          | bi-temporal                                  | bi-temporal                                  | bi-temporal      | tri-temporal                               |
+| temporal axis 1          | valid time                                      | valid time                                            | effective time                               | ontological time period                      | application time | state time                                 |
+| temporal axis 2          | transaction time                                | transaction time                                      |                                              | epistemological time period*                 | system time      | inscription time                           |
+| temporal axis 3          |                                                 | decision time                                         | assertion time                               | epistemological time period*                 |                  | speech act time                            |
 
 ## Credits
 
